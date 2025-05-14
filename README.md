@@ -30,10 +30,14 @@ Este projeto é um **clone da interface do Spotify**, desenvolvido com **React.j
 ## 🖼️ Imagens do Projeto
 
 ### Tela principal
-![screenshot](./screenshots/home.png)
+<div align="center"> 
+  <img src="https://i.postimg.cc/50YtfJSN/principal.png">
+</div>
 
 ### Página de artista
-![screenshot](./screenshots/artist.png)
+<div align="center"> 
+  <img src="https://i.postimg.cc/B6L2kd82/artistas.png">
+</div>
 
 ---
 
